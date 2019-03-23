@@ -1,5 +1,3 @@
-[TOC]
-
 # 1、简答题
 
 * **用简短的语言给出对分析、设计的理解。**
@@ -24,11 +22,11 @@
 
 * **看板使用**
 
-  ![](F:\课件\系统分析与设计\hw2\捕获.PNG)
+  ![](https://github.com/linzhk5/Software-System-Analysis-and-Design/blob/master/hw2/%E6%8D%95%E8%8E%B7.PNG)
 
 * **UML绘图工具练习**
 
-  ![教材第7页图1-5](F:\课件\系统分析与设计\hw2\uml.png)
+  ![blockchain](https://github.com/linzhk5/Software-System-Analysis-and-Design/blob/master/hw2/uml.png)
 
 ---
 
