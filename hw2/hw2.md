@@ -26,7 +26,8 @@
 
 * **UML绘图工具练习**
 
-  ![blockchain](https://github.com/linzhk5/Software-System-Analysis-and-Design/blob/master/hw2/uml.png)
+  ![](https://github.com/linzhk5/Software-System-Analysis-and-Design/blob/master/hw2/uml.png)
+  教材第7页图1-5
 
 ---
 
